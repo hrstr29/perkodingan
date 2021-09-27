@@ -1,0 +1,4 @@
+1. Version Control System (Git, Github, Gitlab, dll)
+2. Frontend 
+  a. HTML
+  b. CSS & CSS Framework
